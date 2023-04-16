@@ -7,9 +7,9 @@
         </div>
 
         <div>
-          <button class="bg-color px-4 py-2 rounded text-white text-sm font-bold">
+          <nuxt-link to="/login" class="bg-color hover:bg-red-600 hover:text-white px-4 py-2 rounded text-white text-sm font-bold">
             Sign in
-          </button>
+          </nuxt-link>
         </div>
 
       </div>
