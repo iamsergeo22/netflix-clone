@@ -1,7 +1,7 @@
 
 ## Demo URL
 
-[https://whatsappwebclone.jumbafinder.com/](https://whatsappwebclone.jumbafinder.com/)
+[https://netflixclone.jumbafinder.com/](https://netflixclone.jumbafinder.com/)
 ## Features
 
 - Clean and minimal design
