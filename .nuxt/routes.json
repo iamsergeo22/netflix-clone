@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/serge/Desktop/netflix-clone/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_6f6a712e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/serge/Desktop/netflix-clone/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b47a63d2"
+  }
+]
